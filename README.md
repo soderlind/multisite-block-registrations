@@ -1,0 +1,1 @@
+# multisite-block-registrations
